@@ -1,4 +1,4 @@
-  <img src="https://readme-typing-svg.demolab.com/?lines=Olá,+seja+bem-vindo!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Olá,+seja+bem-vindo!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 
 <img src="https://github-readme-stats.vercel.app/api?username=luanhenriquegarcia&show_icons=true&theme=highcontrast"/>
 
