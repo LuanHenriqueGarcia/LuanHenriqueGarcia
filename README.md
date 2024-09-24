@@ -7,5 +7,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanhenriquegarcia&theme=highcontrast&layout=compact)](https://github.com/luanhenriquegarcia/github-readme-stats)
 
-
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-README.md&countColor=%237B1E7A)
+ 
 </div>
