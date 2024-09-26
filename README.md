@@ -2,10 +2,12 @@
 
 
 
-  <img src="https://raw.githubusercontent.com/filipedeschamps/rss-feed-emitter/master/content/logo.gif">
+ 
 
 
 <div align="center">
+
+ <img src="https://raw.githubusercontent.com/filipedeschamps/rss-feed-emitter/master/content/logo.gif">
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanhenriquegarcia&theme=highcontrast)](https://github.com/luanhenriquegarcia/github-readme-stats)
 
