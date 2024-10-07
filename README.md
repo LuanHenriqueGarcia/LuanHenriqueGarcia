@@ -30,7 +30,6 @@
 <br/>
 <strong>Ferramentas</strong> 
   <br/>
-  <br/>
 <code><img height="32 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"/></code>  
 <code><img height="32 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></code>
 </p>
