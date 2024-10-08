@@ -33,8 +33,13 @@
 <code><img height="32 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"/></code>  
 <code><img height="32 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></code>
 </p>
-
-
+<p align="center" >
+<strong>Contato: </strong>
+  </br>
+  <a href="https://www.linkedin.com/in/luan-garcia-henrique-t%C3%B3dero-213852250/">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50px">
+    </a>
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4abde8&height=120&section=footer"/>
 
