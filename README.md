@@ -3,7 +3,7 @@
 
 <!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=900&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Luan+Henrique;I'm+18+years+old;I+am+from+Douradina%2C+PR%2C+Brazil;&color=00C6FF&cursor=true&cursorColor=0072FF" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Luan+Henrique;I'm+18+years+old;I+am+from+Douradina%2C+PR%2C+Brazil;&color=00C6FF&cursor=true&cursorColor=0072FF" />
 </p>
 
 <!-- EXTRA LINE (opcional, fica top) -->
