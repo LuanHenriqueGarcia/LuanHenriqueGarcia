@@ -1,2 +1,5 @@
-<div align="center"> <img src="https://i.pinimg.com/564x/3d/c5/b9/3dc5b9a50f8a3a85ec40dd64f95bb5eb.jpg" width="400" alt="So my future depends on... me?">
-<br><br>
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31uciw4ikyvyadvltnyt7iyvrfoe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+  </a>
+</p>
