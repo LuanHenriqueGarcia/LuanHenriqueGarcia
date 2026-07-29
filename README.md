@@ -1,10 +1,7 @@
-
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px;">
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31uciw4ikyvyadvltnyt7iyvrfoe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
-  </a>
-</p>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31uciw4ikyvyadvltnyt7iyvrfoe&unique={true|1|on|yes})
-</div>
+<div align="center">
+  <img
+    width="194"
+    height="254"
+    alt="Captura de tela 2026-07-29 103737"
+    src="https://github.com/user-attachments/assets/f56990b7-bb01-496f-b56c-77624bf34018"
+  />
